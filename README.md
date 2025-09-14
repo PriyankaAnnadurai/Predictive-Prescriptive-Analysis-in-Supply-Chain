@@ -1,4 +1,4 @@
-# 📊 Supply Chain Analysis Report
+# 📊 Supply Chain Analysis 
 
 ## A. Introduction
 
