@@ -1,4 +1,4 @@
-# 📊 Supply Chain Analysis 
+# Supply Chain Analysis 
 
 ## A. Introduction
 
@@ -32,9 +32,6 @@ The following analysis was performed in **Python** using various libraries/packa
 - **Predictive Analytics**: Demand Forecasting & Inventory Optimization
 - **Prescriptive Analytics**: Supply Chain & Shipping Cost Optimization, Production Scheduling & Route Optimization
 - **Defect Prediction & Supplier Performance Evaluation**
-
-👉 This document provides a **comprehensive analysis** of supply chain metrics, demand forecasting, supplier performance, and logistics optimization.  
-The insights aim to **empower stakeholders** to make **data-driven decisions** for improved operational performance and customer satisfaction.
 
 ---
 
