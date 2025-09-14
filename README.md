@@ -164,4 +164,4 @@ The following analysis was performed in **Python** using various libraries/packa
 
 ---
 
-✅ This analysis provides a **360° view of supply chain performance**, covering **demand forecasting, transportation, supplier assessment, logistics optimization, and profitability analysis**.
+This analysis provides a **360° view of supply chain performance**, covering **demand forecasting, transportation, supplier assessment, logistics optimization, and profitability analysis**.
